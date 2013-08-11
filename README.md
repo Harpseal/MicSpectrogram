@@ -14,7 +14,9 @@ Converting waveform to frequency, FFT is the most important invention in the hum
 
 ## Todo
 ```
-[ ] adjust FFT size
+[v] adjust FFT size
+[v] save/load preferences
+[v] automatic FFT overlapRatio adjustment
 [ ] adjust Spectrogram image size
 [v] Indicate music scale.
 [v] Frequency-dB line chart.
