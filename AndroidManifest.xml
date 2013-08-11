@@ -14,7 +14,7 @@
         <activity
             android:name="com.harpseal.test.micspectrogram.MainMicTestActivity"
             android:label="@string/title_activity_main_mic_test" 
-            android:screenOrientation="landscape">
+            android:screenOrientation="sensorLandscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

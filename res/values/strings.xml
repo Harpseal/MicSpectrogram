@@ -1,8 +1,15 @@
 <resources>
 
-    <string name="app_name">MicTest</string>
+    <string name="app_name">Mic Spectrum</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main_mic_test">Mic Spectrum</string>
+    <string name="setting_fftsize">FFT Size</string>
+    <string name="setting_fftsize_1024">1024</string>
+    <string name="setting_fftsize_2048">2048</string>
+    <string name="setting_fftsize_4096">4096</string>
+    <string name="setting_fftsize_8192">8192</string>
+    <string name="setting_fftsize_16384">16384</string>
+    <string name="enable_quad_inter">Quadratic interpolation</string>
 
 </resources>
